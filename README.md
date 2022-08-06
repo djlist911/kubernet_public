@@ -24,19 +24,9 @@ dog's back.
 >
 > ## This is an H2 in a blockquote
 
-LISTS
-Unordered (bulleted) lists use asterisks, pluses, and hyphens (*, +, and -) as list markers. These three markers are interchangable; this:
+I get 10 times more traffic from [Google][1] than from
+[Yahoo][2] or [MSN][3].
 
-*   Candy.
-*   Gum.
-*   Booze.
-this:
-
-+   Candy.
-+   Gum.
-+   Booze.
-and this:
-
--   Candy.
--   Gum.
--   Booze.g
+[1]: http://google.com/        "Google"
+[2]: http://search.yahoo.com/  "Yahoo Search"
+[3]: http://search.msn.com/    "MSN Search"
