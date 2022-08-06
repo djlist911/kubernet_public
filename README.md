@@ -23,3 +23,20 @@ dog's back.
 > This is the second paragraph in the blockquote.
 >
 > ## This is an H2 in a blockquote
+
+LISTS
+Unordered (bulleted) lists use asterisks, pluses, and hyphens (*, +, and -) as list markers. These three markers are interchangable; this:
+
+*   Candy.
+*   Gum.
+*   Booze.
+this:
+
++   Candy.
++   Gum.
++   Booze.
+and this:
+
+-   Candy.
+-   Gum.
+-   Booze.g
